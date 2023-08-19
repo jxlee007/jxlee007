@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm jagmohan singh malhi</h1>
+<h1 align="center">Hi 👋, I'm Jagmohan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on [clone portfolio landing page](https://github.com/jxlee007/PROJECT-1.git)
