@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [web development projects](https://github.com/jxlee007/PROJECTS.git).
   
-- 🏆 I have also worked on cloning a [landing page of a award-winning protfolio website](https://github.com/jxlee007/PROJECT-1.git).
+- 🏆 I have also worked on cloning a [landing page of a award-winning protfolio website](https://project-1-jms.netlify.app/).
 
 - 💬 Ask me about **locomotive and gsap**
 
