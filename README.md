@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jagmohan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on web development projects in my [PROJECTS] repo.(https://github.com/jxlee007/PROJECTS.git)
+- 🔭 I’m currently working on [web development projects](https://github.com/jxlee007/PROJECTS.git).
   
-- I have also worked on a [clone landing page of a award-winning protfolio website](https://github.com/jxlee007/PROJECT-1.git)
+- I have also worked on a [clone landing page of a award-winning protfolio website](https://github.com/jxlee007/PROJECT-1.git).
 
 - 💬 Ask me about **locomotive and gsap**
 
