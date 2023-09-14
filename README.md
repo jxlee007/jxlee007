@@ -5,7 +5,7 @@
   
 - 🏆 I have also worked on cloning a [landing page of a award-winning protfolio website](https://project-1-jms.netlify.app/).
 
-- 💬 Ask me about **locomotive and gsap**
+- 💬 Ask me about **Locomotive-scorll, Firebase, HTML5 and CSS3**
 
 - 📫 How to reach me **jagmohansinghmalhi20.gmail.com**
 
