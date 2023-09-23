@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi , I'm Jagmohan singh malhi<br>😇 A passionate frontend developer from India<br>🔭 I’m currently working on clone a famous photography youtuber website with parallax-scroll, sutle loading pages effects using css and cart system made from javascript with mobile optimization version<br>🌱 I’m currently learning Modern UI UX Design<br>💬 Ask me about locomotive, parallax and javascript<br>⚡ Fun fact I'm creative 
+👋 Hi , I'm Jagmohan singh malhi<br>😇 A passionate frontend developer from India<br>🔭 I’m currently working on clone a famous photography youtuber website with parallax-scroll, sutle loading pages effects using css and cart system made from javascript with mobile optimization version<br>🌱 I’m currently learning Modern UI UX Design<br>💬 Ask me about locomotive, parallax and javascript<br>⚡ Fun fact I'm creative<br>📫 How to reach me jagmohansinghmalhi20.gmail.com 
 
 
 ## 🌐 Socials:
