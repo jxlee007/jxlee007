@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h2 align="left">
-👋 Hi , I'm Jagmohan singh malhi<br>😇 A passionate frontend developer from India<br>🔭 I’m currently working on clone a famous photography youtuber website with parallax-scroll, sutle loading pages effects using css and cart system made from javascript with mobile optimization version<br>🌱 I’m currently learning Modern UI UX Design<br>💬 Ask me about locomotive, parallax and javascript<br>⚡ Fun fact I'm creative 
+👋 Hi , I'm Jagmohan singh malhi<br>😇 A passionate frontend developer from India<br>⚡ Fun fact I'm creative 
 </h2>
 
 <div align="center">
