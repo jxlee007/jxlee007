@@ -1,6 +1,6 @@
-# 💫 About Me:
+# 🐱‍👤 About Me:
 <h2 align="left">
-👋 Hi , I'm Jagmohan singh malhi<br>😇 A passionate frontend developer from India<br>⚡ Fun fact I'm creative 
+ Hi , I'm Jagmohan singh malhi<br>A passionate frontend developer from India<br>Fun fact I'm creative 
 </h2>
 
 <div align="center">
