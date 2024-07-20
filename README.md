@@ -24,7 +24,7 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="30" alt="angular logo"  />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
   <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
