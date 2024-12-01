@@ -67,6 +67,15 @@
     </td>
   </tr>
   <tr>
+    <td><b> PYTHON </b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" height="30" alt="react logo" />
+    </td>
+        <td>
+         <h1>N/A</h1>
+        </td>
+  </tr>
+  <tr>
     <td colspan="4" align="center">
       <h3>Tools</h3>
       <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" />
@@ -79,6 +88,7 @@
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30" alt="Postman logo" />
     </td>
   </tr>
+  
 </table>
 
 <!-- Connect with Me Section -->
