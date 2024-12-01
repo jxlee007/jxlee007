@@ -71,9 +71,10 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=python" height="30" alt="react logo" />
     </td>
-        <td>
-         <h1>N/A</h1>
-        </td>
+    <td><h1>NONE</h1></td>
+    <td>
+      <h1>N/A</h1>
+    </td>
   </tr>
   <tr>
     <td colspan="4" align="center">
