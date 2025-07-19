@@ -120,8 +120,3 @@ I'm a frontend developer who loves creating beautiful and functional web interfa
 
 <br/>  
 
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
