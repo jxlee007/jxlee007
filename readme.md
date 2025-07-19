@@ -97,15 +97,12 @@ I'm a frontend developer who loves creating beautiful and functional web interfa
 
 <br/>  
 
-
+<!-- Stats Section -->
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jxlee007&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxlee007&hide_border=true&layout=compact" align="left" style="width: 100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jxlee007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jxlee007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" />
 
 </td></tr></table>  
 
