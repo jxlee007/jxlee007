@@ -53,9 +53,9 @@ I'm a frontend developer who loves creating beautiful and functional web interfa
 
 
 ## Languages and Tools  
-<div align="center">  
+ 
 [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,python,css,html,javascript,docker,typescript,mysql,mongodb,express,bash,raspberrypi,flask,linux,sass,rabbitmq,gatsby,firebase,nodejs,tailwindcss,astro,styledcomponents,nextjs,git,java,django,figma,vite,heroku,netlify,postman,npm&perline=6)](https://skillicons.dev)
-</div>
+
 
 <br/>  
 
