@@ -27,7 +27,7 @@ I'm a frontend developer who loves creating beautiful and functional web interfa
 ## Rapidfire  
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="100%" colspan="2">
 
 - 🔭 I’m currently working on my own [Digital Saas Product](https://github.com/jxlee007/MUDRA)  
   
@@ -38,26 +38,26 @@ I'm a frontend developer who loves creating beautiful and functional web interfa
 - ❓ Ask me about anything related to MERN stack, AI, Vibe coding solutions and related technologies  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times for being productive  
+- ⚡ Fun fact: I keep night shift switched on at all times for being productive  
 
 </td>
-<td valign="top" width="50%" rowspan="2">
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+
+## Languages and Tools  
+ 
+[![My Skills](https://skillicons.dev/icons?i=react,bootstrap,python,css,html,javascript,docker,typescript,mysql,mongodb,express,bash,raspberrypi,flask,linux,sass,rabbitmq,gatsby,firebase,nodejs,tailwindcss,astro,styledcomponents,nextjs,git,java,django,figma,vite,heroku,netlify,postman,npm&perline=5)](https://skillicons.dev)
+
+</td>
+    <td valign="top" width="50%" >
 
 <div align="center">
 <img src="https://i.pinimg.com/originals/69/6a/95/696a95ed3008400c6168cab7379b2528.gif" alt="GIF" align="center" style="width: 100%" />
 </div>  
 
 </td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-## Languages and Tools  
- 
-[![My Skills](https://skillicons.dev/icons?i=react,bootstrap,python,css,html,javascript,docker,typescript,mysql,mongodb,express,bash,raspberrypi,flask,linux,sass,rabbitmq,gatsby,firebase,nodejs,tailwindcss,astro,styledcomponents,nextjs,git,java,django,figma,vite,heroku,netlify,postman,npm&perline=7)](https://skillicons.dev)
-
-</td>
-</tr>
+  </tr>
 </table>
 
 
