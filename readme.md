@@ -29,7 +29,7 @@ I'm a frontend developer who loves creating beautiful and functional web interfa
   <tr>
     <td valign="top" width="100%" colspan="2">
 
-- 🔭 I’m currently working on my own [Digital Saas Product](https://github.com/jxlee007/MUDRA)  
+- 🔭 I’m currently creating my own [Digital Saas Product's](https://github.com/jxlee007/MUDRA)  
   
 
 - 🌱 I’m currently learning Agile coding with LLMs  
