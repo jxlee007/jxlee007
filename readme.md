@@ -4,14 +4,14 @@
 <a href="https://github.com/JXLEE007" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jagmohan-singh-malhi-a67805243/" target="_blank">
+<a href="https://www.linkedin.com/in/jagmohan-singh-malhi-a67805243/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:jimmyfalco007@gmail.com" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail" style="margin-bottom: 5px;" />
 </a>
-<a href="https://discord.com/channels/1203981850171932692/1203981850884841513" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="discord" style="margin-bottom: 5px;" />
+<a href="https://x.com/JimmyFalco65924" target="_blank">
+<img src="https://img.shields.io/static/v1?message=(Twitter)&logo=X&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" alt="X" style="margin-bottom: 5px;" />
 </a>
 
 
