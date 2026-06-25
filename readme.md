@@ -10,9 +10,6 @@
 <a href="mailto:jimmyfalco007@gmail.com" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail" style="margin-bottom: 5px;" />
 </a>
-<a href="https://x.com/JimmyFalco65924" target="_blank">
-<img src="https://img.shields.io/static/v1?message=(Twitter)&logo=X&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" alt="X" style="margin-bottom: 5px;" />
-</a>
 
 
 
