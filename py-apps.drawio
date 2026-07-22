@@ -4,6 +4,24 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wELZPK9diwPmVYqh0iq_-1" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
+          <mxGeometry height="200" width="200" x="130" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wELZPK9diwPmVYqh0iq_-2" parent="wELZPK9diwPmVYqh0iq_-1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Brilliant&lt;/h1&gt;&lt;p&gt;- CLI todo&lt;/p&gt;&lt;p&gt;-&amp;nbsp;decode-msg.py&lt;/p&gt;" vertex="1">
+          <mxGeometry height="150" width="180" x="10" as="geometry" />
+        </mxCell>
+        <mxCell id="wELZPK9diwPmVYqh0iq_-3" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
+          <mxGeometry height="520" width="290" x="360" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wELZPK9diwPmVYqh0iq_-4" parent="wELZPK9diwPmVYqh0iq_-3" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;FCC&lt;/h1&gt;&lt;p&gt;-&lt;span style=&quot;background-color: transparent;&quot;&gt;apply-discunt-fnc.py&lt;/span&gt;&lt;/p&gt;&lt;p&gt;│&amp;nbsp; &amp;nbsp;│&amp;nbsp; &amp;nbsp;bill-splitter.py&lt;/p&gt;&lt;p&gt;│&amp;nbsp; &amp;nbsp;│&amp;nbsp; &amp;nbsp;caesar-cipher.py&lt;/p&gt;&lt;p&gt;│&amp;nbsp; &amp;nbsp;│&amp;nbsp; &amp;nbsp;employee-profile-generator.py&lt;/p&gt;&lt;p&gt;│&amp;nbsp; &amp;nbsp;│&amp;nbsp; &amp;nbsp;medical-validator.py&lt;/p&gt;&lt;p&gt;│&amp;nbsp; &amp;nbsp;│&amp;nbsp; &amp;nbsp;mov-ticket-book-calc.py&lt;/p&gt;&lt;p&gt;│&amp;nbsp; &amp;nbsp;│&amp;nbsp; &amp;nbsp;num-pattern-generation.py&lt;/p&gt;&lt;p&gt;│&amp;nbsp; &amp;nbsp;│&amp;nbsp; &amp;nbsp;pin-extractor.py&lt;/p&gt;&lt;p&gt;│&amp;nbsp; &amp;nbsp;│&amp;nbsp; &amp;nbsp;prac-list-of-fncs.txt&lt;/p&gt;&lt;p&gt;│&amp;nbsp; &amp;nbsp;│&amp;nbsp; &amp;nbsp;report-card-printer.py&lt;/p&gt;&lt;p&gt;│&amp;nbsp; &amp;nbsp;│&amp;nbsp; &amp;nbsp;rpg-char.py&lt;/p&gt;&lt;p&gt;│&amp;nbsp; &amp;nbsp;│&amp;nbsp; &amp;nbsp;travel-weather.py&lt;/p&gt;&lt;p&gt;│&amp;nbsp; &amp;nbsp;│&amp;nbsp; &amp;nbsp;user-config-manager.py&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;│&amp;nbsp; &amp;nbsp;├───list-comp&lt;/p&gt;&lt;p&gt;│&amp;nbsp; &amp;nbsp;│&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;filter-negetive-number.py&lt;/p&gt;&lt;p&gt;│&amp;nbsp; &amp;nbsp;│&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;sq-num.py&lt;/p&gt;&lt;p&gt;│&amp;nbsp; &amp;nbsp;│&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;test_sq_num.py&lt;/p&gt;" vertex="1">
+          <mxGeometry height="530" width="280" x="10" as="geometry" />
+        </mxCell>
+        <mxCell id="wELZPK9diwPmVYqh0iq_-6" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
+          <mxGeometry height="440" width="250" x="670" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wELZPK9diwPmVYqh0iq_-7" parent="wELZPK9diwPmVYqh0iq_-6" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Prac&lt;/h1&gt;&lt;p&gt;-&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;│&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;flight tracker.py&lt;/span&gt;&lt;/p&gt;&lt;p&gt;│&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;my_first_own_function.py&lt;/p&gt;&lt;p&gt;│&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;NEF.py&lt;/p&gt;&lt;p&gt;│&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;odd_even.py&lt;/p&gt;&lt;p&gt;│&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;README.md&lt;/p&gt;&lt;p&gt;│&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;shortest_string.py&amp;nbsp;&lt;/p&gt;&lt;p&gt;│&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;smart parking lot.py&lt;/p&gt;&lt;p&gt;│&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;square up.py&lt;/p&gt;&lt;p&gt;│&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;str transversing.py&lt;/p&gt;&lt;p&gt;│&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;reply.py&lt;/p&gt;&lt;p&gt;&lt;strike&gt;│&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;swapping values using tuples.py&lt;/strike&gt;&lt;/p&gt;&lt;p&gt;│&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;timer.py&lt;/p&gt;&lt;p&gt;│&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;tuples.py&lt;/p&gt;&lt;p&gt;│&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;strike&gt;while loop.py&lt;/strike&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="450" width="250" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
