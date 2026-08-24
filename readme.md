@@ -32,7 +32,7 @@ I'm a frontend developer who loves creating beautiful and functional web interfa
 
 ## Languages and Tools  
  
-[![My Skills](https://skillicons.dev/icons?i=react,bootstrap,python,css,html,javascript,docker,typescript,mysql,mongodb,express,bash,raspberrypi,flask,linux,sass,rabbitmq,gatsby,firebase,nodejs,tailwindcss,astro,styledcomponents,nextjs,git,java,django,figma,vite,heroku,netlify,postman,npm&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,docker,mysql,linux,bash,javascript,typescript,git,postman,flask,bootstrap,tailwindcss,css,html,mongodb,express,raspberrypi,sass,rabbitmq,gatsby,firebase,nodejs,astro,styledcomponents,react,nextjs,java,django,figma,vite,heroku,netlify,npm&perline=5)](https://skillicons.dev)
 
 </td>
     <td valign="top" width="50%" >
