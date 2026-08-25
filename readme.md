@@ -3,7 +3,7 @@
 
 
 ### Glad to see you here!  
-I'm a software developer who loves creating beautiful and functional websites and apps. 
+I'm a software developer who loves creating beautiful and functional websites and apps. <br>
 I'm constantly learning new technologies and enjoy bringing ideas to life with code.  
   
 
@@ -11,16 +11,10 @@ I'm constantly learning new technologies and enjoy bringing ideas to life with c
   <tr>
     <td valign="top" width="100%" colspan="2">
 
-- 🔭 I’m currently focusing on problem-solving projects
-  
+- 🔭 I’m currently focusing on problem-solving as skill 
 
 - 🌱 I’m currently learning Python OOPS 
   
-
-- ❓ Ask me about anything related to MERN stack solutions and related technologies  
-  
-
-- ⚡ Fun fact: I keep night shift switched on at all times for being productive  
 
 </td>
   </tr>
