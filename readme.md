@@ -6,10 +6,6 @@
 I'm a frontend developer who loves creating beautiful and functional web interfaces. I'm constantly learning new technologies and enjoy bringing ideas to life with code.  
   
 
-<br/>  
-
-
-## Rapidfire  
 <table>
   <tr>
     <td valign="top" width="100%" colspan="2">
