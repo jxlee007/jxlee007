@@ -3,8 +3,7 @@
 
 
 ### Glad to see you here!  
-I'm a software developer who loves creating beautiful and functional websites and apps. <br>
-I'm constantly learning new technologies and enjoy bringing ideas to life with code.  
+I'm a software developer who loves creating beautiful and functional websites and apps.
 - 🔭 I’m currently focusing on problem-solving as skill and learning Python OOPS 
   
 
@@ -30,6 +29,7 @@ I'm constantly learning new technologies and enjoy bringing ideas to life with c
   </tr>
 </table>
 
+I'm constantly learning new technologies and enjoy bringing ideas to life with code.  
 
 <br/>  
 
