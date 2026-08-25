@@ -3,7 +3,8 @@
 
 
 ### Glad to see you here!  
-I'm a frontend developer who loves creating beautiful and functional web interfaces. I'm constantly learning new technologies and enjoy bringing ideas to life with code.  
+I'm a software developer who loves creating beautiful and functional websites and apps. 
+I'm constantly learning new technologies and enjoy bringing ideas to life with code.  
   
 
 <table>
