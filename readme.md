@@ -35,18 +35,16 @@ I'm constantly learning new technologies and enjoy bringing ideas to life with c
 
 <!-- Stats Section -->
 ## Github Stats  
-<table width="100%">    
-  <tr>       
-    <td width="50%" valign="top">         
-      <img src="https://github-readme-stats.vercel.app/api?username=jxlee007&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"              alt="GitHub stats" />         
-      <br />         
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jxlee007&layout=compact&langs_count=5&theme=dracula"
-        alt="Top languages" />       
-    </td>     
-  </tr>   
-</table>  
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jxlee007&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
 
-<br/>  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jxlee007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxlee007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+
+</div>
+
+---
 
   
 
