@@ -6,28 +6,31 @@
 I'm a software developer who loves creating beautiful and functional websites and apps.
 - 🔭 I’m currently focusing on problem-solving as skill and learning Python OOPS 
   
-
 <table>
-
-</td>
-  </tr>
   <tr>
+    <!-- Left Column: Skills -->
     <td valign="top" width="50%">
-
-## Languages and Tools  
- 
-[![My Skills](https://skillicons.dev/icons?i=python,docker,mysql,linux,bash,javascript,typescript,git,postman,flask,bootstrap,tailwindcss,css,html,mongodb,express,raspberrypi,sass,rabbitmq,gatsby,firebase,nodejs,astro,styledcomponents,react,nextjs,java,django,figma,vite,heroku,netlify,npm&perline=5)](https://skillicons.dev)
-
-</td>
-    <td valign="top" width="50%" >
-
-<div align="center">
-<img src="https://i.pinimg.com/originals/69/6a/95/696a95ed3008400c6168cab7379b2528.gif" alt="GIF" align="center" style="width: 100%" />
-</div>  
-
-</td>
+      <b>Frontend</b><br/>
+      <img src="https://skillicons.dev?i=astro,html,css,tailwindcss,vite,flask,react,nextjs,bootstrap,sass,gatsby,styledcomponents" /><br/><br/>
+      <b>Backend</b><br/>
+      <img src="https://skillicons.dev?i=python,typescript,javascript,java,django,express,nodejs" /><br/><br/>
+      <b>Database</b><br/>
+      <img src="https://skillicons.dev?i=mysql,mongodb,firebase" /><br/><br/>
+      <img src="https://skillicons.dev?i=python,typescript,javascript,java,django,express,nodejs" /><br/><br/>
+      <b>Deployment/b><br/>
+      <img src="https://skillicons.dev?i=heroku,netlify" /><br/><br/>
+      <b>DevOps, Tools & Hardware</b><br/>
+      <img src="https://skillicons.dev?i=docker,linux,bash,git,figma,postman,rabbitmq,raspberrypi,npm" />
+    </td>
+    <!-- Right Column: GIF -->
+    <td valign="top" width="50%">
+      <div align="center">
+        <img src="https://pinimg.com" alt="GIF" style="width: 100%;" />
+      </div>
+    </td>
   </tr>
 </table>
+
 
 I'm constantly learning new technologies and enjoy bringing ideas to life with code.  
 
