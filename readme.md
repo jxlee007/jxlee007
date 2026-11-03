@@ -11,16 +11,15 @@ I'm a software developer who loves creating beautiful and functional websites an
     <!-- Left Column: Skills -->
     <td valign="top" width="50%">
       <b>Frontend</b><br/>
-      <img src="https://skillicons.dev?i=astro,html,css,tailwindcss,vite,flask,react,nextjs,bootstrap,sass,gatsby,styledcomponents" /><br/><br/>
+      [(https://skillicons.dev?i=astro,html,css,tailwindcss,vite,flask,react,nextjs,bootstrap,sass,gatsby,styledcomponents&perline=5)](https://skillicons.dev)
       <b>Backend</b><br/>
-      <img src="https://skillicons.dev?i=python,typescript,javascript,java,django,express,nodejs" /><br/><br/>
+      [(https://skillicons.dev?i=python,typescript,javascript,java,django,express,nodejs&perline=5)](https://skillicons.dev)
       <b>Database</b><br/>
-      <img src="https://skillicons.dev?i=mysql,mongodb,firebase" /><br/><br/>
-      <img src="https://skillicons.dev?i=python,typescript,javascript,java,django,express,nodejs" /><br/><br/>
+      [(https://skillicons.dev?i=https://skillicons.dev?i=mysql,mongodb,firebase&perline=5)](https://skillicons.dev)
       <b>Deployment/b><br/>
-      <img src="https://skillicons.dev?i=heroku,netlify" /><br/><br/>
+      [(https://skillicons.dev?i=heroku,netlify&perline=5)](https://skillicons.dev)
       <b>DevOps, Tools & Hardware</b><br/>
-      <img src="https://skillicons.dev?i=docker,linux,bash,git,figma,postman,rabbitmq,raspberrypi,npm" />
+      [(https://skillicons.dev?i=docker,linux,bash,git,figma,postman,rabbitmq,raspberrypi,npm&perline=5)](https://skillicons.dev)
     </td>
     <!-- Right Column: GIF -->
     <td valign="top" width="50%">
