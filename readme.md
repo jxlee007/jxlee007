@@ -5,32 +5,43 @@
 ### Glad to see you here!  
 I'm a software developer who loves creating beautiful and functional websites and apps.
 - 🔭 I’m currently focusing on problem-solving as skill and learning Python OOPS 
-  
+
 <table>
   <tr>
-    <!-- Left Column: Skills -->
-    <td valign="top" width="50%">
+    <!-- Column 1: Frontend -->
+    <td valign="top">
       <b>Frontend</b><br/>
-      [(https://skillicons.dev?i=astro,html,css,tailwindcss,vite,flask,react,nextjs,bootstrap,sass,gatsby,styledcomponents&perline=5)](https://skillicons.dev)
-      <b>Backend</b><br/>
-      [(https://skillicons.dev?i=python,typescript,javascript,java,django,express,nodejs&perline=5)](https://skillicons.dev)
-      <b>Database</b><br/>
-      [(https://skillicons.dev?i=https://skillicons.dev?i=mysql,mongodb,firebase&perline=5)](https://skillicons.dev)
-      <b>Deployment/b><br/>
-      [(https://skillicons.dev?i=heroku,netlify&perline=5)](https://skillicons.dev)
-      <b>DevOps, Tools & Hardware</b><br/>
-      [(https://skillicons.dev?i=docker,linux,bash,git,figma,postman,rabbitmq,raspberrypi,npm&perline=5)](https://skillicons.dev)
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=astro,html,css,tailwind,vite,flask,react,nextjs,bootstrap,sass,gatsby,styledcomponents&perline=2"      </a>
     </td>
-    <!-- Right Column: GIF -->
-    <td valign="top" width="50%">
-      <div align="center">
-        <img src="https://pinimg.com" alt="GIF" style="width: 100%;" />
-      </div>
+    <!-- Column 2: Backend -->
+    <td valign="top">
+      <b>Backend</b><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,django,express,nodejs&perline=1"      </a>
+    </td>
+    <!-- Column 3: Database -->
+    <td valign="top">
+      <b>Database</b><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&perline=1"      </a>
+    </td>
+    <!-- Column 4: DevOps -->
+    <td valign="top">
+      <b>DevOps</b><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=heroku,netlify,git,bash,docker,linux&perline=1"      </a>
+    </td>
+    <!-- Column 5: Tools -->
+    <td valign="top">
+      <b>Tools</b><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=figma,npm,postman,rabbitmq,raspberrypi&perline=1"      </a>
     </td>
   </tr>
 </table>
 
-
+  
 I'm constantly learning new technologies and enjoy bringing ideas to life with code.  
 
 <br/>  
